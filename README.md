@@ -18,16 +18,16 @@ docker-compose up
 elasticsearch url: 
 
 
-[http://localhost:9200/](URL)
+    http://localhost:9200
 
 
 actuator health verification url:
 
 
-[http://localhost:8080/actuator/health](URL)
+    http://localhost:8080/actuator/health
 
 ---
 
 DIO - Digital Inovation One Url:
 
-[https://web.digitalinnovation.one/](URL)
+> https://web.digitalinnovation.one
