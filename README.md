@@ -5,7 +5,7 @@ A microservices project made with with Spring Cloud Framework and based on a Dig
 Need start docker conteiner fisrt (See docker-compose.yml)
 
 
-- To start docker image run from root project directory:
+- To start docker image providing elasticsearch and redis services run the commands below inside the root project directory:
 
 ```
 sudo chmod 666 /var/run/docker.sock
