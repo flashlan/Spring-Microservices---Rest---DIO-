@@ -30,7 +30,7 @@ actuator health verification url:
   
 > http://localhost:8082/actuator/health
 
-check if config-server is getting the right config from git url: 
+check if config-server is pointed to the right config file url (on a git repo here): 
 
 > http://localhost:8888/product-catalog/default
 
