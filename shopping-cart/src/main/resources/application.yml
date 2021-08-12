@@ -1,11 +1,11 @@
-server:
-  port: 8081
+#server:
+#  port: 8081
 
-#spring:
+spring:
 
-  #application:
-  #  name: shopping-cart
+  application:
+    name: shopping-cart
 
-  #cloud:
-  #  config:
-  #    uri: http://localhost:8888
+  cloud:
+    config:
+      uri: http://localhost:8888

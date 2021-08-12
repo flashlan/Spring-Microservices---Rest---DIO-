@@ -16,18 +16,26 @@ docker-compose up
 ```
 ---
 
+!!!Usefull URIs
+
 elasticsearch url: 
 
 > http://localhost:9200
 
+Config-Server health verification url:
 
+> http://localhost:8080/actuator/health
 
 actuator health verification url:
   
 > http://localhost:8082/actuator/health
 
+check if config-server is getting the right config from git url: 
+
+> http://localhost:8888/product-catalog/default
+
 ---
 
 DIO - Digital Inovation One Url:
 
-> https://web.digitalinnovation.one
+> https://digitalinnovation.one/
