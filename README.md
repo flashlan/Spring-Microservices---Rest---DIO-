@@ -34,6 +34,10 @@ check if config-server is getting the right config from git url:
 
 > http://localhost:8888/product-catalog/default
 
+eureka dashboard:
+
+> http://localhost:9000
+
 ---
 
 DIO - Digital Inovation One Url:
