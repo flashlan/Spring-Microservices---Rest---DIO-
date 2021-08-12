@@ -1,5 +1,5 @@
 # Spring-Microservices---Rest---DIO-
-A microservices project made with with Spring Cloud Framework and based on a DigitalInovationOne tutorial series from [Oswaldo Neto](https://github.com/oswaldoneto).
+A microservices project made with Spring Cloud Framework and based on a DigitalInovationOne tutorial series from [Oswaldo Neto](https://github.com/oswaldoneto).
 
 
 You will need start a docker conteiner fisrt (See docker-compose.yml) to sucesfull test the project.
