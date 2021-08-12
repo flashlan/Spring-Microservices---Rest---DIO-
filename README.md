@@ -1,8 +1,9 @@
 # Spring-Microservices---Rest---DIO-
 A microservices project made with with Spring Cloud Framework and based on a DigitalInovationOne tutorial series
+[Oswaldo Neto] (https://github.com/oswaldoneto)
 
 
-Need start docker conteiner fisrt (See docker-compose.yml)
+You will need start docker conteiner fisrt (See docker-compose.yml) to sucesfull test the project.
 
 
 - To start docker image providing elasticsearch and redis services run the commands below inside the root project directory:
