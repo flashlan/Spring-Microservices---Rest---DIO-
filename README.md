@@ -24,7 +24,7 @@ elasticsearch url:
 
 actuator health verification url:
   
-> http://localhost:8080/actuator/health
+> http://localhost:8082/actuator/health
 
 ---
 
