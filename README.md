@@ -3,7 +3,7 @@ A microservices project made with with Spring Cloud Framework and based on a Dig
 
 
 
-You will need start docker conteiner fisrt (See docker-compose.yml) to sucesfull test the project.
+You will need start a docker conteiner fisrt (See docker-compose.yml) to sucesfull test the project.
 
 
 - To start docker image providing elasticsearch and redis services run the commands below inside the root project directory:
@@ -16,30 +16,30 @@ docker-compose up
 ```
 ---
 
-!!!Usefull URIs
+##Usefull Links
 
-elasticsearch url: 
+Elasticsearch url: 
 
 > http://localhost:9200
 
-Config-Server health verification url:
+Config Server health verification url:
 
 > http://localhost:8080/actuator/health
 
-actuator health verification url:
+Actuator health verification url:
   
 > http://localhost:8082/actuator/health
 
-check if config-server is pointed to the right config file url (on a git repo here): 
+Check if config-server is pointing to the right config file url (on a git repo here): 
 
 > http://localhost:8888/product-catalog/default
 
-eureka dashboard:
+Eureka dashboard:
 
 > http://localhost:9000
 
 ---
 
-DIO - Digital Inovation One Url:
+DIO - Digital Inovation One Website url:
 
 > https://digitalinnovation.one/
